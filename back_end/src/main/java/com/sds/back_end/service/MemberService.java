@@ -1,5 +1,5 @@
 package com.sds.back_end.service;
 
-public interface DataService {
+public interface MemberService {
     
 }
